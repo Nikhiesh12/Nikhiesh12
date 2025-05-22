@@ -1,3 +1,8 @@
+# this project shows top 10 country by total death and total cases of covid 19
+# to download csv file copy this link https://covid.ourworldindata.org/data/owid-covid-data.csv
+
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 # Load dataset
