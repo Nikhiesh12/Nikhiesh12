@@ -16,7 +16,6 @@
   A project visualizing COVID-19 data to uncover trends and insights.  
   *Uses Python libraries to analyze and plot pandemic data.*
 
----
 
 ## 🌱 Currently Learning
 
@@ -24,7 +23,7 @@
 - Data science fundamentals
 - Basics of machine learning
 
----
+---If anyone want to contact me here is my gmail nikhileshrawat605@gmail.com
 ---
 
 > “The best way to predict the future is to invent it.”  
